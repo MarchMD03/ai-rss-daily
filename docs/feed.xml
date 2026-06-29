@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>週次ITニュース（自動キュレーション）</title>
+    <title>デイリーITニュース（自動キュレーション）</title>
     <link>https://MarchMD03.github.io/ai-rss-daily/feed.xml</link>
     <description>関心のある記事とWebエンジニアの必読記事を週1で収集</description>
     <language>ja</language>
     <lastBuildDate>Mon, 29 Jun 2026 09:00:00 +0900</lastBuildDate>
 
     <!-- カテゴリA: 関心 -->
-
-    <item>
-      <title>[⭐関心] [アップデート] ついに Kiro IDE 1.0 がリリースされたのでエージェントセレクターからカスタムエージェントに切り替えて使ってみた</title>
-      <link>https://dev.classmethod.jp/articles/kiro-ide-1-0-customagent/</link>
-      <description>DevelopersIO</description>
-      <guid isPermaLink="true">https://dev.classmethod.jp/articles/kiro-ide-1-0-customagent/</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 +0900</pubDate>
-      <category>関心</category>
-    </item>
 
     <item>
       <title>[⭐関心] GitHub Actions で terraform plan を実行して Claude Code にレビューさせてみた</title>
@@ -28,19 +19,10 @@
     </item>
 
     <item>
-      <title>[⭐関心] [Amazon Bedrock AgentCore] 画像分析からコンセプト作成・作詞・リップシンク判定まで Claude が自律判断するMV生成エージェントを Strands Agents で作ってみました</title>
-      <link>https://dev.classmethod.jp/articles/bedrock-agentcore-mv-generation-strands-agents/</link>
+      <title>[⭐関心] [アップデート] ついに Kiro IDE 1.0 がリリースされたのでエージェントセレクターからカスタムエージェントに切り替えて使ってみた</title>
+      <link>https://dev.classmethod.jp/articles/kiro-ide-1-0-customagent/</link>
       <description>DevelopersIO</description>
-      <guid isPermaLink="true">https://dev.classmethod.jp/articles/bedrock-agentcore-mv-generation-strands-agents/</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 +0900</pubDate>
-      <category>関心</category>
-    </item>
-
-    <item>
-      <title>[⭐関心] Bedrock Converse APIで「10回目から応答しない」を追った ― Extended Thinking × ツール使用時の落とし穴</title>
-      <link>https://dev.classmethod.jp/articles/bedrock-converse-extended-thinking-tool-use-validation-exception/</link>
-      <description>DevelopersIO</description>
-      <guid isPermaLink="true">https://dev.classmethod.jp/articles/bedrock-converse-extended-thinking-tool-use-validation-exception/</guid>
+      <guid isPermaLink="true">https://dev.classmethod.jp/articles/kiro-ide-1-0-customagent/</guid>
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0900</pubDate>
       <category>関心</category>
     </item>
@@ -55,6 +37,24 @@
     </item>
 
     <item>
+      <title>[⭐関心] Bedrock Converse APIで「10回目から応答しない」を追った ― Extended Thinking × ツール使用時の落とし穴</title>
+      <link>https://dev.classmethod.jp/articles/bedrock-converse-extended-thinking-tool-use-validation-exception/</link>
+      <description>DevelopersIO</description>
+      <guid isPermaLink="true">https://dev.classmethod.jp/articles/bedrock-converse-extended-thinking-tool-use-validation-exception/</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0900</pubDate>
+      <category>関心</category>
+    </item>
+
+    <item>
+      <title>[⭐関心] [Amazon Bedrock AgentCore] 画像分析からコンセプト作成・作詞・リップシンク判定まで Claude が自律判断するMV生成エージェントを Strands Agents で作ってみました</title>
+      <link>https://dev.classmethod.jp/articles/bedrock-agentcore-mv-generation-strands-agents/</link>
+      <description>DevelopersIO</description>
+      <guid isPermaLink="true">https://dev.classmethod.jp/articles/bedrock-agentcore-mv-generation-strands-agents/</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0900</pubDate>
+      <category>関心</category>
+    </item>
+
+    <item>
       <title>[⭐関心] 【Copilot Studio】KPIレポートを収集から配布まで一気通貫してみた：親＋資料化サブの最終構成</title>
       <link>https://dev.classmethod.jp/articles/copilot-studio-end-to-end-kpi-report/</link>
       <description>DevelopersIO</description>
@@ -63,31 +63,31 @@
       <category>関心</category>
     </item>
 
-    <item>
-      <title>[⭐関心] MarpとReveal.jsを同じ内容で比較してみた - Markdownスライド vs HTMLプレゼンテーション</title>
-      <link>https://dev.classmethod.jp/articles/marp-vs-revealjs-markdown-presentation-tools-comparison/</link>
-      <description>DevelopersIO</description>
-      <guid isPermaLink="true">https://dev.classmethod.jp/articles/marp-vs-revealjs-markdown-presentation-tools-comparison/</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 +0900</pubDate>
-      <category>関心</category>
-    </item>
-
     <!-- カテゴリB: 必読 -->
 
     <item>
-      <title>[🔥 必読] 2026年6月28日 AIニュース：エージェント、推論基盤、企業AI、透明性ルールが実務段階へ</title>
-      <link>https://eguweb.jp/ai/81094/</link>
-      <description>eguweb</description>
-      <guid isPermaLink="true">https://eguweb.jp/ai/81094/</guid>
+      <title>[🔥 必読] 米政府、Anthropicの「Mythos」（ミュトス）再開を一部容認──「Fable 5」は停止継続</title>
+      <link>https://www.itmedia.co.jp/news/articles/2606/28/news019.html</link>
+      <description>ITmedia NEWS</description>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2606/28/news019.html</guid>
+      <pubDate>Sun, 28 Jun 2026 07:15:00 +0900</pubDate>
+      <category>必読</category>
+    </item>
+
+    <item>
+      <title>[🔥 必読] OpenAIの自律型AI「Codex」の利用急増、企業の非エンジニアの利用が189倍に チャットからエージェントへの移行が進む</title>
+      <link>https://www.sbbit.jp/article/cont1/185928</link>
+      <description>ビジネス+IT</description>
+      <guid isPermaLink="true">https://www.sbbit.jp/article/cont1/185928</guid>
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0900</pubDate>
       <category>必読</category>
     </item>
 
     <item>
-      <title>[🔥 必読] Ornith 1.0 を DGX Spark で動かして日本語性能を Gemma 4 / Nemotron と比べてみた</title>
-      <link>https://dev.classmethod.jp/articles/ornith-1-0-dgx-spark-japanese-benchmark/</link>
-      <description>DevelopersIO</description>
-      <guid isPermaLink="true">https://dev.classmethod.jp/articles/ornith-1-0-dgx-spark-japanese-benchmark/</guid>
+      <title>[🔥 必読] 2026年6月28日 AIニュース：エージェント、推論基盤、企業AI、透明性ルールが実務段階へ</title>
+      <link>https://eguweb.jp/ai/81094/</link>
+      <description>eguweb（エグウェブ）</description>
+      <guid isPermaLink="true">https://eguweb.jp/ai/81094/</guid>
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0900</pubDate>
       <category>必読</category>
     </item>
@@ -97,6 +97,15 @@
       <link>https://dev.classmethod.jp/articles/aws-vault-vs-granted-credential-management-macos/</link>
       <description>DevelopersIO</description>
       <guid isPermaLink="true">https://dev.classmethod.jp/articles/aws-vault-vs-granted-credential-management-macos/</guid>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0900</pubDate>
+      <category>必読</category>
+    </item>
+
+    <item>
+      <title>[🔥 必読] Ornith 1.0 を DGX Spark で動かして日本語性能を Gemma 4 / Nemotron と比べてみた</title>
+      <link>https://dev.classmethod.jp/articles/ornith-1-0-dgx-spark-japanese-benchmark/</link>
+      <description>DevelopersIO</description>
+      <guid isPermaLink="true">https://dev.classmethod.jp/articles/ornith-1-0-dgx-spark-japanese-benchmark/</guid>
       <pubDate>Sun, 28 Jun 2026 00:00:00 +0900</pubDate>
       <category>必読</category>
     </item>
