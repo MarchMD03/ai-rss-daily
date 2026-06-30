@@ -5,108 +5,81 @@
     <link>https://MarchMD03.github.io/ai-rss-daily/feed.xml</link>
     <description>関心のある記事とWebエンジニアの必読記事を週1で収集</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 29 Jun 2026 09:00:00 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 09:00:00 +0900</lastBuildDate>
 
     <!-- カテゴリA: 関心 -->
 
     <item>
-      <title>[⭐関心] GitHub Actions で terraform plan を実行して Claude Code にレビューさせてみた</title>
-      <link>https://dev.classmethod.jp/articles/github-actions-terraform-plan-claude-code-review/</link>
-      <description>DevelopersIO</description>
-      <guid isPermaLink="true">https://dev.classmethod.jp/articles/github-actions-terraform-plan-claude-code-review/</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 +0900</pubDate>
+      <title>[⭐関心] LINEヤフーが語るAI「Agent i」の裏側、記憶をリアルタイム集約する新構想も――技術イベント「Tech-Verse 2026」基調講演</title>
+      <link>https://k-tai.watch.impress.co.jp/docs/news/2120868.html</link>
+      <description>ケータイ Watch</description>
+      <guid isPermaLink="true">https://k-tai.watch.impress.co.jp/docs/news/2120868.html</guid>
+      <pubDate>Mon, 29 Jun 2026 17:33:45 +0900</pubDate>
       <category>関心</category>
     </item>
 
     <item>
-      <title>[⭐関心] [アップデート] ついに Kiro IDE 1.0 がリリースされたのでエージェントセレクターからカスタムエージェントに切り替えて使ってみた</title>
-      <link>https://dev.classmethod.jp/articles/kiro-ide-1-0-customagent/</link>
-      <description>DevelopersIO</description>
-      <guid isPermaLink="true">https://dev.classmethod.jp/articles/kiro-ide-1-0-customagent/</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 +0900</pubDate>
+      <title>[⭐関心] AIに開発を任せるために、フローを育てた話</title>
+      <link>https://tech.mti.co.jp/entry/ac2026summer/0629</link>
+      <description>エムティーアイ エンジニアリングブログ</description>
+      <guid isPermaLink="true">https://tech.mti.co.jp/entry/ac2026summer/0629</guid>
+      <pubDate>Mon, 29 Jun 2026 10:00:00 +0900</pubDate>
       <category>関心</category>
     </item>
 
     <item>
-      <title>[⭐関心] Kiro CLI v2.10.0の新機能、Config Hot-ReloadとResource Inheritance Controlを試してみた</title>
-      <link>https://dev.classmethod.jp/articles/kiro-cli-2-10-config-hot-reload-resource-inheritance/</link>
-      <description>DevelopersIO</description>
-      <guid isPermaLink="true">https://dev.classmethod.jp/articles/kiro-cli-2-10-config-hot-reload-resource-inheritance/</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 +0900</pubDate>
+      <title>[⭐関心] AI用語の基礎知識【第12回】「ファインチューニング」とは――AIに“仕事の型”を覚えさせる技術</title>
+      <link>https://ai.watch.impress.co.jp/docs/serial/glossary/2119268.html</link>
+      <description>AI Watch</description>
+      <guid isPermaLink="true">https://ai.watch.impress.co.jp/docs/serial/glossary/2119268.html</guid>
+      <pubDate>Mon, 29 Jun 2026 07:00:00 +0900</pubDate>
       <category>関心</category>
     </item>
 
     <item>
-      <title>[⭐関心] Bedrock Converse APIで「10回目から応答しない」を追った ― Extended Thinking × ツール使用時の落とし穴</title>
-      <link>https://dev.classmethod.jp/articles/bedrock-converse-extended-thinking-tool-use-validation-exception/</link>
-      <description>DevelopersIO</description>
-      <guid isPermaLink="true">https://dev.classmethod.jp/articles/bedrock-converse-extended-thinking-tool-use-validation-exception/</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 +0900</pubDate>
-      <category>関心</category>
-    </item>
-
-    <item>
-      <title>[⭐関心] [Amazon Bedrock AgentCore] 画像分析からコンセプト作成・作詞・リップシンク判定まで Claude が自律判断するMV生成エージェントを Strands Agents で作ってみました</title>
-      <link>https://dev.classmethod.jp/articles/bedrock-agentcore-mv-generation-strands-agents/</link>
-      <description>DevelopersIO</description>
-      <guid isPermaLink="true">https://dev.classmethod.jp/articles/bedrock-agentcore-mv-generation-strands-agents/</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 +0900</pubDate>
-      <category>関心</category>
-    </item>
-
-    <item>
-      <title>[⭐関心] 【Copilot Studio】KPIレポートを収集から配布まで一気通貫してみた：親＋資料化サブの最終構成</title>
-      <link>https://dev.classmethod.jp/articles/copilot-studio-end-to-end-kpi-report/</link>
-      <description>DevelopersIO</description>
-      <guid isPermaLink="true">https://dev.classmethod.jp/articles/copilot-studio-end-to-end-kpi-report/</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 +0900</pubDate>
+      <title>[⭐関心] Bots in people properties and user mentions (Changelog 6/10): hkob の雑記録 (536)</title>
+      <link>https://hkob.hatenablog.com/entry/2026/06/29/050000</link>
+      <description>hkob の雑記録</description>
+      <guid isPermaLink="true">https://hkob.hatenablog.com/entry/2026/06/29/050000</guid>
+      <pubDate>Mon, 29 Jun 2026 05:00:00 +0900</pubDate>
       <category>関心</category>
     </item>
 
     <!-- カテゴリB: 必読 -->
 
     <item>
-      <title>[🔥 必読] 米政府、Anthropicの「Mythos」（ミュトス）再開を一部容認──「Fable 5」は停止継続</title>
-      <link>https://www.itmedia.co.jp/news/articles/2606/28/news019.html</link>
-      <description>ITmedia NEWS</description>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2606/28/news019.html</guid>
-      <pubDate>Sun, 28 Jun 2026 07:15:00 +0900</pubDate>
+      <title>[🔥 必読] Linuxカーネルの脆弱性「DirtyClone」の実証コード公開、痕跡を残さずルート権限奪取が可能に</title>
+      <link>https://www.zaikei.co.jp/article/20260629/858943.html</link>
+      <description>財経新聞</description>
+      <guid isPermaLink="true">https://www.zaikei.co.jp/article/20260629/858943.html</guid>
+      <pubDate>Mon, 29 Jun 2026 18:52:00 +0900</pubDate>
       <category>必読</category>
     </item>
 
     <item>
-      <title>[🔥 必読] OpenAIの自律型AI「Codex」の利用急増、企業の非エンジニアの利用が189倍に チャットからエージェントへの移行が進む</title>
-      <link>https://www.sbbit.jp/article/cont1/185928</link>
-      <description>ビジネス+IT</description>
-      <guid isPermaLink="true">https://www.sbbit.jp/article/cont1/185928</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 +0900</pubDate>
+      <title>[🔥 必読] 「Microsoft Edge」v149.0.4022.96が公開、「Chromium」由来の脆弱性14件を修正</title>
+      <link>https://forest.watch.impress.co.jp/docs/news/2120608.html</link>
+      <description>窓の杜</description>
+      <guid isPermaLink="true">https://forest.watch.impress.co.jp/docs/news/2120608.html</guid>
+      <pubDate>Mon, 29 Jun 2026 15:20:00 +0900</pubDate>
       <category>必読</category>
     </item>
 
     <item>
-      <title>[🔥 必読] 2026年6月28日 AIニュース：エージェント、推論基盤、企業AI、透明性ルールが実務段階へ</title>
-      <link>https://eguweb.jp/ai/81094/</link>
-      <description>eguweb（エグウェブ）</description>
-      <guid isPermaLink="true">https://eguweb.jp/ai/81094/</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 +0900</pubDate>
+      <title>[🔥 必読] 5万回の評価で判明　VS Code開発チームが明かす「小型AI」の罠：30種類のモデルを検証　理論値の「約74倍」トークンを浪費したモデルも</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2606/29/news056.html</link>
+      <description>＠IT</description>
+      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2606/29/news056.html</guid>
+      <pubDate>Mon, 29 Jun 2026 13:00:00 +0900</pubDate>
       <category>必読</category>
     </item>
 
     <item>
-      <title>[🔥 必読] aws-vault vs Granted：macOSでAWSクレデンシャルを安全に管理するツール比較</title>
-      <link>https://dev.classmethod.jp/articles/aws-vault-vs-granted-credential-management-macos/</link>
-      <description>DevelopersIO</description>
-      <guid isPermaLink="true">https://dev.classmethod.jp/articles/aws-vault-vs-granted-credential-management-macos/</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 +0900</pubDate>
-      <category>必読</category>
-    </item>
-
-    <item>
-      <title>[🔥 必読] Ornith 1.0 を DGX Spark で動かして日本語性能を Gemma 4 / Nemotron と比べてみた</title>
-      <link>https://dev.classmethod.jp/articles/ornith-1-0-dgx-spark-japanese-benchmark/</link>
-      <description>DevelopersIO</description>
-      <guid isPermaLink="true">https://dev.classmethod.jp/articles/ornith-1-0-dgx-spark-japanese-benchmark/</guid>
-      <pubDate>Sun, 28 Jun 2026 00:00:00 +0900</pubDate>
+      <title>[🔥 必読] 「動くコード」は「安全なコード」ではない！ バイブコーディングの5つのセキュリティ急所と反脆弱な開発者・チームになるための実践</title>
+      <link>https://codezine.jp/article/detail/24632</link>
+      <description>CodeZine</description>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/24632</guid>
+      <pubDate>Mon, 29 Jun 2026 08:00:00 +0900</pubDate>
       <category>必読</category>
     </item>
 
